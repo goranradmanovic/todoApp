@@ -36,4 +36,4 @@ npm run lint
 
 ## Screenshot of the project
 
-![todo](./src/assets/todo.PNG)
+![todo](https://github.com/goranradmanovic/todoApp/blob/master/src/assets/todo.png)
